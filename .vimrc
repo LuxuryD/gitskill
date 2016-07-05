@@ -1,5 +1,5 @@
 set nocompatible
-set nummber
+set nu
 filetype on
 set history=1000
 set background=dark
